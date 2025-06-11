@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Cloud Cost Optimizer – Multi-Cloud Cost Comparison Tool</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: auto;
-      padding: 2em;
-      background-color: #f9f9f9;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .emoji {
-      font-size: 1.2em;
-      margin-right: 0.3em;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li::before {
-      content: "✔️";
-      margin-right: 0.5em;
-      color: #27ae60;
-    }
-    .section {
-      background-color: #ffffff;
-      border-radius: 8px;
-      padding: 1em 2em;
-      margin-bottom: 2em;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
-    }
-  </style>
-</head>
-<body>
 
-  <div class="section">
     <h1>🌐 Cloud Cost Optimizer – Multi-Cloud Cost Comparison Tool</h1>
     <p><strong>Cloud Cost Optimizer</strong> is a lightweight, extensible tool that helps engineers, architects, and businesses compare cloud costs across <strong>AWS, Azure, and Google Cloud Platform (GCP)</strong> for key resources: <strong>compute (VMs/instances), storage, and managed databases</strong>.</p>
   </div>
